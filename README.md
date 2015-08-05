@@ -9,7 +9,7 @@ npm install autocomplete-trie
 ```
 
 ```javascript
-var Autocomplete = require('autocomplete')
+var Autocomplete = require('autocomplete-trie')
 
 var autocomplete = new AutoComplete.initialize([
   'aaa',
