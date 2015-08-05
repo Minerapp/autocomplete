@@ -1,0 +1,19 @@
+{
+  "name": "autocomplete-trie",
+  "version": "1.0.0",
+  "description": "Autocomplete trie impl for node and the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minerapp/autocomplete.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Minerapp/autocomplete/issues"
+  },
+  "homepage": "https://github.com/Minerapp/autocomplete#readme"
+}
